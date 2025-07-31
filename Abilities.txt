@@ -1,1 +1,3 @@
 Ability: Transwarp|Transwarp (ability)
+Ability: Tachyon Beam|Tachyon Beam (ability)
+Ability: Tractor Beam|Tractor Beam (ability)
